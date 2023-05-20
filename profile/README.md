@@ -1,12 +1,27 @@
-## Hi there 👋
+## Projects Cafe ☕
 
-<!--
+> Level-up with real-world coding projects.
 
-**Here are some ideas to get you started:**
+Try it now! ☛ [https://projects.cafe](https://projects.cafe)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### You are in the right place.
+
+- 🙋‍ Student looking for a real-world project?
+- 💼 Junior developer seeking to level-up your skill?
+- 😎 Creative coder building something for fun?
+- 💯 Need a state-of-art project on your resume?
+
+### We got you covered.
+
+- 🖼️ Pixel perfect design file on figma.
+- 📝 Full document about every page and function.
+- ✅ Projects are broken down into smallest tasks.
+- 🧪 Test cases of each task to check your work.
+- 👩🏻‍🏫 Step-by-step example project provided.
+
+### Popular Projects 
+
+- 🌐 Build your fancy portfolio page.
+- 💬 Build a voice assistant by openai's api.
+- 📻 Build you own podcast app.
+- 🔥 More is coming...
